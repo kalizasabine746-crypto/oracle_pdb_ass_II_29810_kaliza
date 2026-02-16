@@ -1,3 +1,8 @@
+* repository link :https://github.com/kalizasabine746-crypto/oracle_pdb_ass_II_29810_kaliza/tree/main
+* pdb name created: ka_pdb_29810
+* issues encounteres; YES 
+
+
 # oracle_pdb_ass_II_29810_kaliza
 
 # Overview
